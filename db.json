@@ -1,0 +1,191 @@
+{
+  "drugs": [
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 25000,
+      "quantity": 50,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-4127912/cardio_cardio_aspirin_tab_full02.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Ibuprofen",
+      "description": "Used to reduce fever, pain, and inflammation.",
+      "price": 10000,
+      "quantity": 30,
+      "imageUrl": "https://res-3.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1687335978_ibu_400_fm"
+    },
+    {
+      "id": "3",
+      "name": "Paracetamol",
+      "description": "Used to treat pain and fever.",
+      "price": 20000,
+      "quantity": 100,
+      "imageUrl": "https://e-katalog.lkpp.go.id/katalog/produk/download/gambar/938590734?file_name=2652455072780845.png&v=3&file_sub_location=produk_gambar%2F2022%2F11%2F24"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "johndoe",
+      "password": "password123",
+      "email": "johndoe@example.com"
+    },
+    {
+      "id": "2",
+      "username": "janedoe",
+      "password": "password456",
+      "email": "janedoe@example.com"
+    },
+    {
+      "id": "e6db",
+      "username": "dasd",
+      "password": "dassadsad",
+      "email": "sada@gmail.com"
+    },
+    {
+      "id": "60b5",
+      "username": "dasd",
+      "password": "dassadsad",
+      "email": "sada@gmail.com"
+    },
+    {
+      "id": "f152",
+      "username": "asd",
+      "password": "assadsad"
+    },
+    {
+      "id": "eb4e",
+      "username": "dasd",
+      "password": "dassadsad"
+    },
+    {
+      "id": "e91e",
+      "username": "kodingasoy",
+      "password": "admin123"
+    }
+  ],
+  "orders": [
+    {
+      "id": "3",
+      "name": "Paracetamol",
+      "description": "Used to treat pain and fever.",
+      "price": 6.99,
+      "imageUrl": "https://example.com/images/paracetamol.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Ibuprofen",
+      "description": "Used to reduce fever, pain, and inflammation.",
+      "price": 8.49,
+      "imageUrl": "https://example.com/images/ibuprofen.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Paracetamol",
+      "description": "Used to treat pain and fever.",
+      "price": 6.99,
+      "imageUrl": "https://example.com/images/paracetamol.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 10.99,
+      "imageUrl": "https://example.com/images/aspirin.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 25,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-4127912/cardio_cardio_aspirin_tab_full02.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Ibuprofen",
+      "description": "Used to reduce fever, pain, and inflammation.",
+      "price": 10,
+      "imageUrl": "https://res-3.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1687335978_ibu_400_fm"
+    },
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 25,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-4127912/cardio_cardio_aspirin_tab_full02.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 25,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-4127912/cardio_cardio_aspirin_tab_full02.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Ibuprofen",
+      "description": "Used to reduce fever, pain, and inflammation.",
+      "price": 10000,
+      "quantity": 60,
+      "imageUrl": "https://res-3.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1687335978_ibu_400_fm"
+    },
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 25000,
+      "quantity": 50,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-4127912/cardio_cardio_aspirin_tab_full02.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 25000,
+      "quantity": 50,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-4127912/cardio_cardio_aspirin_tab_full02.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Ibuprofen",
+      "description": "Used to reduce fever, pain, and inflammation.",
+      "price": 10000,
+      "quantity": 30,
+      "imageUrl": "https://res-3.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1687335978_ibu_400_fm"
+    },
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 25000,
+      "quantity": 50,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-4127912/cardio_cardio_aspirin_tab_full02.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Paracetamol",
+      "description": "Used to treat pain and fever.",
+      "price": 20000,
+      "quantity": 100,
+      "imageUrl": "https://e-katalog.lkpp.go.id/katalog/produk/download/gambar/938590734?file_name=2652455072780845.png&v=3&file_sub_location=produk_gambar%2F2022%2F11%2F24"
+    },
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 25000,
+      "quantity": 100,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-4127912/cardio_cardio_aspirin_tab_full02.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Aspirin",
+      "description": "Used to reduce pain, fever, or inflammation.",
+      "price": 25000,
+      "quantity": 50,
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//89/MTA-4127912/cardio_cardio_aspirin_tab_full02.jpg"
+    }
+  ]
+}
